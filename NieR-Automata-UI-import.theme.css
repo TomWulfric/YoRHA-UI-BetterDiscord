@@ -1,18 +1,17 @@
 //META{"name":"NieR: Automata UI IMPORT","description":"Glory to Mankind. THANKS TO GOmonkeymanGO FOR LETTING ME USE SOME OF THEIR CODE","author":"Accrazed","version":"1.0","website":"https://github.com/AccraZed/YoRHA-UI-BetterDiscord"}*//{}
 
-@import url('https://anti-betterdocs.github.io/BlockBetterDocs/code.css'); /* gets rid of cucks who try to steal my theme and make money via ads */
-@import url('https://accrazed.github.io/YoRHA-UI-BetterDiscord/font/stylesheet.css');
-@import url('https://accrazed.github.io/YoRHA-UI-BetterDiscord/NieR%20Automata%20UI.theme.css');
+@import url('https://github.com/TomWulfric/YoRHA-UI-BetterDiscord/blob/master/font/stylesheet.css');
+@import url('https://github.com/TomWulfric/YoRHA-UI-BetterDiscord/blob/master/NieR%20Automata%20UI.theme.css');
 ::placeholder, body, button, input, select, textarea{font-family:'sce-ps3_rodin_latinregular';}
 
 /*================================ Main Wallpaper ================================*/
 #app-mount 
 { 
-    background:url('https://i.ibb.co/7NzPSCg/Nie-R-UI-lens-effect.png') center/cover no-repeat;
+    background:url('https://i.imgur.com/kYW2H5C.jpg') center/cover no-repeat;
     /* 
-    https://i.ibb.co/qyq2Mvw/R4HPUxC.png border
-    https://i.ibb.co/98f2jx9/R4HPUxC.png borderless
-    https://i.ibb.co/7NzPSCg/Nie-R-UI-lens-effect.png with Lens
+    https://i.imgur.com/kYW2H5C.jpg border
+    https://i.imgur.com/kYW2H5C.jpg borderless
+    https://i.imgur.com/kYW2H5C.jpg with Lens
     */
 }
 :root /* GLOBAL VARIABLES */
